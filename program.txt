@@ -1,0 +1,304 @@
+PRELIMINARY PROGRAM OF RECOMB'99
+
+April 11-14,
+Hotel de Lyon Metropole, Lyon, France
+
+------------------------
+Saturday, April 10, 1999
+------------------------
+
+16:00 - 19:00 - Welcome and registration at Lyon Metropole Hotel
+18:00   Cocktail offered by the City Hall of Lyon
+
+----------------------
+Sunday, April 11, 1999
+----------------------
+
+8:45  Opening Remarks:
+      Sorin Istrail, General RECOMB Vice-Chair
+                     1999 Program Committee Chair
+      Mireille Regnier, 1999 Conference Chair
+      Ron Shamir, 2000 Program Committee Chair
+
+Distinguished New Technologies Lecture - Chair: S. Istrail
+----------------------------------------------------------
+
+9:00  Large DNA Microarrays - the How and the Why
+      Ed Southern
+
+10:00 Short break
+
+Session on Gene Expression - Chair: S. Schbath
+----------------------------------------------
+
+10:05 Algorithms for Choosing Differential Gene Expression Experiments
+      R. M. Karp, R. Stoughton, K. Y. Yeung
+
+10:30 An Algorithm for Clustinering cDNAs for Gene Expression Analysis
+      E. Hartuv, A. Schmitt, J. Lange, S. Meirer-Ewert, H. Lehrach, R. Shamir
+
+10:55 A Dictionary Based Approach for Gene Annotation
+      L. Pachter, S. Batzoglou, V. I. Spitkovsky, W. S. Beebee Jr.,
+      E. S. Lander, B. Berger, D. J. Kleitman
+
+11:20 Break
+
+Session on Sequencing - Chair: R. Karp
+--------------------------------------
+
+11:45 De Novo Peptide Sequencing via Tandem Mass Spectrometry: A
+      Graph-Theoretical Approach
+      V. Dancik, T. Addona, K. Clauser, J. Vath, P. A. Pevzner
+
+12:10 On the Power of Universal Bases in Sequencing by Hybridization
+      F. P. Preparata, A. M. Frieze, E. Upfal
+
+Lunch: 12:35 - 14:00
+--------------------
+
+Distinguished Biology Lecture - Chair: P. Pevzner
+-------------------------------------------------
+
+14:00 Whole Genome Association Studies in Humans
+      Daniel Cohen
+
+15:00 Short break
+
+Session on Protein Structure - Chair: M. Levitt
+-----------------------------------------------
+
+15:05 Recognition of Remote Protein Homologies Using Three-Dimensional
+      Information to Generate a Position Specific Scoring Matrix in
+      the Program 3D-PSSM
+      L. Kelley, R. MacCullum, M. J. E. Sternberg
+
+15:30 A Solvation Potential with Improved Contact Definitions and
+      Optimized by Extensive Threading
+      A. Dombkowski, G. M. Crippen
+
+15:55 Fast Detection of Common Geometric Substructure in Proteins
+      L. P. Chew, D. Huttenlocher, K. Kedem, J. Kleinberg
+
+16:20 Break
+
+Plenary Lecture Session - Chair: M. Levitt
+------------------------------------------
+
+16:45 The Past, Present and Future of Protein Structure Prediction
+      John Moult
+
+18:00 - 20:00  Business Meeting
+
+----------------------
+Monday, April 12, 1999
+----------------------
+
+Plenary Lecture Session - Chair: R. Karp
+----------------------------------------
+
+8:30  Computational Analysis of Molecular Diversity for Drug Discovery
+      Peter Willett
+
+9:30  Short break
+
+Session on Genomic Rearrangements - Chair: R. Shamir
+----------------------------------------------------
+
+9:35  Reconstructing the Pre-Doubling Genome
+      N. El-Mabrouk, D. Bryant, D. Sankoff
+
+10:00 Formulations and Hardness of Multiple Sorting by Reversals
+      A. Caprara
+
+10:25 Probability Models for Genome Rearrangement and Linear Invariants
+      for Phylogenetic Inference
+      D. Sankoff, M. Blanchette
+
+10:50 Break
+
+Session on Trees - Chair: A. Guenoche
+-------------------------------------
+
+11:15 Modeling Protein Families Using Probabilistic Suffix Trees
+      G. Bejerano, G. Yona
+
+11:40 Faster Reliable Phylogenetic Analysis
+      V. Berry, D. Bryant
+
+12:05 Obtaining Highly Accurate Topology Estimates of Evolutionary
+      Trees from Very Short Sequences
+      D. H. Huson, S. Nettles, T. J. Warnow
+
+Lunch: 12:30 - 14:00
+--------------------
+
+Plenary Lecture Session - Chair: D. Slonim
+------------------------------------------
+
+14:00 Progress Toward the Whole-Genome Shotgun Sequencing of Drosophilia
+      Gene Myers
+
+15:00 Short break
+
+Session on Statistics - Chair: J. Kececioglu
+--------------------------------------------
+
+15:05 Searching Gene Transfers on Bacillus Subtilis Using Hidden Markov Models
+      L. Bize, F. Muri, F. Samson, F. Rodolphe, S. D. Ehrlich,
+      B. Prum, P. Bessieres
+
+15:30 Significance Testing for Genomic Mismatch Scanning
+      G. R. Grant, R. S. Spielman, E. Manduchi, V. G. Cheung, W. J. Ewens
+
+15h55 Break
+
+Session on Statistics - Chair: G. Kucherov
+------------------------------------------
+
+16:20 Classifying Proteins by Family Using the Product of Correlated p-values
+      T. L. Bailey, W. N. Grundy
+
+16:45 Sequence Homology Detection Through Large Scale Pattern Discovery
+      A. Floratos, I. Rigoutsos, L. Parida, G. Stolovitzky, Y. Gao
+
+
+17:30 - 19:30 Poster Session
+----------------------------
+
+-----------------------
+Tuesday, April 13, 1999
+-----------------------
+
+Plenary Lecture Session - Chair: D. Kahn
+-------------------------------------------
+
+8:30  Genome Sequences and Protein Structures
+      Cyrus Chothia
+
+9:30  Short break
+
+Session on Mapping - Chair: R. Karp
+-----------------------------------
+
+9:35  Algorithms for Whole Genome Shotgun Sequencing
+      E. Anson, G. Myers
+
+10:00 Construction of Physical Maps from Oligonucleotide Fingerprints Data
+      G. Mayraz, R. Shamir
+
+10:25 Computing Physical Maps of Chromosomes with Nonoverlapping Probes
+      by Branch-and-Cut
+      T. Christof, J. Kececioglu
+
+10:50 Break
+
+Session on Threading - Chair: M. Vingron
+----------------------------------------
+
+11:15 A Method for Optimal Design of a Threading Scoring Function
+      J. R. Bienkowska, R. G. Rogers Jr., T. F. Smith
+
+11:40 An Anytime Algorithm for Gapped Block Protein Threading with
+      Pair Interactions
+      R. H. Lathrop
+
+12:05 Efficient Algorithms for Protein Sequence Design and the Analysis of
+      Certain Evolutionary Fitness Landscapes
+      J. M. Kleinberg
+
+12:30 - 14:00 Lunch
+-------------------
+
+Lecture Session - Chair: S. Istrail
+-----------------------------------
+
+14:00 Trends in Computational Biology
+      John Wooley
+
+15:00 Short break
+
+Session on Sequence Alignment - Chair: A. Apostolico
+----------------------------------------------------
+
+15:05 An Analytic Study of the Phase Transition Line in Local Sequence
+      Alignment with Gaps
+      R. Bundschuh, T. Hwa
+
+15:30 Winnowing Sequences from a Database Search
+      P. Berman, Z. Zhang, Y. I. Wolf, E. V. Koonin, W. Miller
+
+15:55 q-gram Based Database Searching Using a Suffix Array (QUASAR)
+      S. Burkhardt, A. Crauser, P. Ferragina, H-P. Lenhof, E. Rivals,
+      M. Vingron
+
+16:20 Break
+
+16:45 Stanislaw Ulam - Computational Biology Address - Chair: M. Waterman
+      Comparison of Complete Genomes: Organisation and Evolution
+      Piotr Slonimski
+
+
+18:00 - 23:00 Evening program at Saint-Romain-en-Gal
+----------------------------------------------------
+
+18:00 Departure to Saint-Romain-en-Gal
+
+19:00 Visit of the Museum
+
+20:00 Cocktail offered by the Conseil General du Rhone
+
+-------------------------
+Wednesday, April 14, 1999
+-------------------------
+
+Plenary Lecture Session: Chair R. Shamir
+----------------------------------------
+
+9:00  Comparing Genes and Genomes: From Polymorphism to Phylogeny
+      Peer Bork
+
+10:00 Short break
+
+Session on Drug Design - Chair: R. Lathrop
+------------------------------------------
+
+10:05 Efficient Database Screening for Rational Drug Design Using
+      Pharmacophore-Constrained Conformational Search
+      S. M. LaValle, L. E. Kavraki, P. W. Finn, J-C. Latombe
+
+10:30 Coupled Optimization in Protein Docking
+      J. C. Mitchell, A. T. Phillips, J. B. Rosen, L. F. Ten Eyck
+
+10:55 Derivation of Sensitive Discrimination Potential for Virtual
+      Ligand Screening
+      M. Totrov, R. Abagyan
+
+11:20 Break
+
+Session on Molecular Structure - Chair: J.M. Claverie
+-----------------------------------------------------
+
+11:45 Optimizing Combinatorial Library Construction via Split Synthesis
+      B. Cohen, S. Skiena
+
+12:10 Internal Loops in RNA Secondary Structure Prediction
+      R. B. Lyngso, M. Zuker, C. N. S. Pedersen
+
+12:35 - 14:00 Lunch
+
+Session on Gene Networks - Chair: T. Lengauer
+---------------------------------------------
+
+14:00 Identifying Gene Regulatory Networks from Experimental Data
+      T. Chen, V. Filkov, S. S. Skiena
+
+14:25 Evolution of Metabolisms: A New Method for the Comparison of
+      Metabolic Pathways
+      C. V. Forst, K. Schulten
+
+14:50 Clustering Gene Expression Patterns
+      A. Ben-Dor, Z. Yakhini
+
+15:15 Closing session
+
+15:30 End of the conference

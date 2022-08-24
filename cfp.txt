@@ -1,0 +1,189 @@
+                         CALL FOR PAPERS
+
+               THIRD ANNUAL INTERNATIONAL CONFERENCE ON
+                   COMPUTATIONAL MOLECULAR BIOLOGY
+
+                           (RECOMB'99)
+
+                        April 11-14, 1999
+                           Lyon, France
+
+
+                        Organized by INRIA 
+              (The French National Institute for Research 
+                   in Computer Science and Control)
+
+                           Sponsored by
+          ACM (Association for Computing Machinery)  - SIGACT
+
+                         with support from
+                          SLOAN Foundation
+                       US Department of Energy
+                        Smith Kline Beecham
+
+                    http://www.inria.fr/RECOMB99/
+
+
+The Third Annual Conference on Research in Computational Molecular
+Biology (RECOMB 99), sponsored by the Association for Computing
+Machinery Special Interest Group on Algorithms and Computation Theory
+(ACM-SIGACT) with support from the SLOAN Foundation, US Department of
+Energy and Smith Kline Beecham, will be organized by INRIA in Lyon,
+France, April 11-14, 1999. 
+
+Papers reporting on original research (both theoretical and experimental)
+in all areas of computational molecular biology are sought, including
+surveys of important recent results/directions.
+
+Typical but not exclusive topics of interest include:
+
+- Genomics,
+- Molecular sequence analysis,
+- Recognition of genes and regulatory elements,
+- Molecular evolution,
+- Protein structure,
+- Combinatorial libraries and drug design.
+
+
+ABSTRACT SUBMISSION:
+Authors are requested to send 10 copies (preferably two sided copies)
+of a detailed extended abstract (5-10 pages) to:
+
+                        Dr. Sorin Istrail
+                        RECOMB 99 Program Chair
+                        Sandia National Laboratories
+                        Applied Mathematics Department
+                        MS 1110
+                        Albuquerque, NM 87185-5800
+                        USA
+
+An abstract must be received by October 9, 1998. This is a firm
+deadline. Simultaneous submission to another conference or journal is
+allowed. 
+
+CONFERENCE PROCEEDINGS:
+The extended abstracts for the Conference will be published by ACM
+Press and will be available at the Conference. A selection of the
+accepted extended abstracts in their final journal versions will be
+invited to appear in a special issue of the Journal of Computational
+Biology devoted to RECOMB 99.
+
+NOTIFICATION:
+The conference submissions will be refereed by the program committee.
+Authors will be notified of acceptance or rejection by a letter mailed
+on or before December 5, 1998. A final copy of each accepted paper is
+required by January 6, 1999. An author of each accepted paper is
+expected to attend the Symposium and present the paper; otherwise
+alternative arrangements should be made to have the paper presented. 
+
+ABSTRACT PREPARATION:
+An abstract should start with a succinct statement of the problem, the
+results achieved, their significance and a comparison with previous
+work. This material should be understandable to nonspecialists. A
+technical exposition directed to the specialist should follow. The
+length, excluding cover page and bibliography, should not exceed 10
+pages. The manuscript should be easy to read, preferably using 11
+point font size on U.S. standard 8 1/2 by 11 inch paper. If authors
+believe that more details are necessary to substantiate the claims of
+the paper, they may include a clearly marked appendix. An E-mail
+address for the contact author should be included.
+
+
+CONFERENCE EVENTS:
+
+RECOMB 99 will feature 9 invited lectures (to be announced later) including
+the following conference events:
+
+- The Stanislaw Ulam Memorial Computational Biology Address:
+awarded by RECOMB to a scientist who has made major contributions in the
+computational aspects of the field.
+
+- The Distinguished Biology Lecture:
+awarded by RECOMB to a scientist who has made major contributions in the
+biological aspects of the field.
+
+- The Distinguished New Technologies Lecture:
+describing emerging, new technologies.
+
+- Best Paper by a Young Scientist Award:
+This award will be given to the best paper written solely by one or more
+recent graduates or students. An abstract is eligible if all authors are
+recent graduates (within 3 years from Ph.D.) or full-time students at the
+time of submission. This should be indicated in the submission letter. The
+program committee may decline to make the award or may split it among
+several papers.
+
+
+CALENDAR
+
+Deadline for reception of papers:               October 9th, 1998
+Notification of acceptation/rejection:          December 5th, 1998
+Deadline for reception of final papers:	        January 6th, 1999
+
+
+STEERING COMMITTEE
+
+Sorin Istrail, RECOMB General Vice-Chair (Sandia National Laboratories, USA)
+Richard Karp (University of Washington, USA)
+Thomas Lengauer (GMD-SCAI, Germany)
+Pavel Pevzner, RECOMB General Chair (University of Southern California, USA)
+Ron Shamir (Tel-Aviv University, Israel)
+Michael Waterman, RECOMB General Chair (University of Southern California, USA)
+
+
+PROGRAM COMMITTEE
+
+Stephen Altschul (NCBI, NIH, USA)
+Alberto Apostolico (Purdue University, USA, and University of Padova, Italy)
+Gary Benson (Mount Sinai School of Medicine, USA)
+David Botstein (Stanford University, USA)
+Jean-Michel Claverie (CNRS, France)
+Ken Dill (University of California, San Francisco, USA)
+Andreas Dress (Bielefeld University, Germany)
+Misha Gelfand (Russian Academy of Sciences, Russia)
+Alain Guénoche (Universite de Marseille, France)
+Sorin Istrail, Program Committee Chair (Sandia National Laboratories, USA)
+Tao Jiang (McMaster University, Canada)
+Richard Karp (University of Washington, USA)
+John Kececioglu (University of Georgia, USA)
+Richard Lathrop (University of California Irvine, USA)
+Thomas Lengauer (GMD-SCAI, Germany)
+Arthur Lesk (Univeristy of Cambridge, England)
+Michael Levitt (Stanford University, USA)
+Pavel Pevzner (University of Southern California, USA)
+Mireille Regnier (INRIA, France)
+Rich Roberts (New England Biolabs, USA)
+Chris Sander (Millenium Pharmaceutical, USA)
+Miyano Satoru (Tokyo University, Japan)
+Sophie Schbath (INRA, France)
+Ron Shamir (Tel-Aviv University, Israel)
+Jeffrey Skolnick (The Scripps Research Institute, USA)
+Donna Slonim (Whitehead Institute, USA)
+Terry Speed (University of California, Berkeley, USA)
+Martin Vingron (Cancer Research Center, Germany)
+Michael Waterman (University of Southern California, USA)
+
+
+ORGANIZING COMMITTEE:
+
+Florence Balax (INRIA, France)
+Daniel Kahn (INRA, France)
+Gregory Kucherov, Publicity Chair (INRIA, France)
+Mireille Regnier, Organizing Committee Chair (INRIA, France)
+Sophie Schbath (INRA, France)
+Annick Theis-Viemont (INRIA, France)
+
+
+INFORMATION
+
+INRIA Rocquencourt
+Relations Exterieures
+BP 105
+78153 Le Chesnay, France
+
+Phone: +33 1 39 63 50 53
+Fax:   +33 1 39 63 56 38
+email : symposia@inria.fr
+
+http://www.inria.fr/RECOMB99/
+
